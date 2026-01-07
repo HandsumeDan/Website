@@ -1,3 +1,12 @@
+// Acetic Acid Molecular Weight (g/mol)
+const aceticAcidMolecularWeight = 60.052;
+
+// Acetic Acid Melting Point (C)
+const aceticAcidMeltingPoint = 16.6;
+
+// Acetic Acid Boiling Point (C)
+const aceticAcidBoilingPoint = 117.9;
+
 // Acetic Acid Density (kg/L)
 const aceticAcidDensityExperimental = [
       {t: 0, val: 1.0691119691119693},
@@ -142,6 +151,9 @@ const acetoneDielectricExperimental = [
       {t: 50.014431708665384, val: 18.551912568306008},
       {t: 50.015899340055086, val: 17.896174863387976}
      ];
+     
+// Acetone Molecular Weight (g/mol)
+
 
 // Water Density (kg/L)
 const waterDensityExperimental = [
